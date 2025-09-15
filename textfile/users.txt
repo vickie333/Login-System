@@ -1,0 +1,3 @@
+Username:brian,Password:Brian1010,Email:Brian@email.com
+Username:jesus,Password:Jesus1789,Email:jesus@email.com
+Username:Gloria Maria,Password:Gloria0730,Email:gloria@email.com
